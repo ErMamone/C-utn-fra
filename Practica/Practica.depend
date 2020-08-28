@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598622934 source:/home/sysone/Desktop/Go/C/Example/Practica/main.c
+	<stdio.h>
+	<stdlib.h>
+
